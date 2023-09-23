@@ -13,18 +13,17 @@
 - 📚 Education:
 - Graduated at Cagayan State University as BS in Information Technology
 - 
- ## Skills
+ # Skills
 
 - Problem Solving
 - Team Collaboration
 - Agile Development
-- UX/UI Design Principles
 
-## Interests
+# Interests
 - Artificial Intelligence
 - Mobile App Development
 
-## Hobbies
+# Hobbies
 
 - Cooking an Spicy food
 - Playing Online Games
