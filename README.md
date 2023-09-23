@@ -11,8 +11,26 @@
 
 - 📚 Studying at a bootcamp to level up my skills!
 - 📚 Education:
-  - Graduated at Cagayan State University as BS in Information Technology
-    
+- Graduated at Cagayan State University as BS in Information Technology
+- 
+ ## Skills
+
+- Problem Solving
+- Team Collaboration
+- Agile Development
+- UX/UI Design Principles
+
+## Interests
+- Artificial Intelligence
+- Mobile App Development
+
+## Hobbies
+
+- Cooking an Spicy food
+- Playing Online Games
+- Watching Movies
+
+
 - 📫 How to reach me:
   - Email: dongyang0016@gmail.com
   - LinkedIn: [linkedin.com/in/christian-patrick-nebab](https://www.linkedin.com/in/christian-patrick-nebab-718110269/)
