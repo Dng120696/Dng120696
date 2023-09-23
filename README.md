@@ -1,13 +1,23 @@
 ### Hey there! 👋 I'm Patrick, aspiring to become a versatile developer based in Cagayan, Philippines.
 
 - 🔭 Currently focusing on:
-  - HTML, CSS, SASS, JavaScript
+ - <span style="background-color:#007BFF; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">HTML</span>, 
+    <span style="background-color:#28A745; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">CSS</span>, 
+    <span style="background-color:#DC3545; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">SASS</span>, and 
+    <span style="background-color:#FFC107; color:#000000; padding: 5px 10px; border-radius: 5px;">JavaScript</span>
+
 
 - 🌱 Actively learning:
-  - React, Supabase, Ruby, and Ruby on Rails
+  - <span style="background-color:#007BFF; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">React</span>, 
+    <span style="background-color:#28A745; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">Supabase</span>, 
+    <span style="background-color:#DC3545; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">Ruby</span>, and 
+    <span style="background-color:#DC3545; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">Ruby on Rails</span>
 
 - 🚀 Planning to master:
-  - Front-end, Back-end, Full-stack Development
+ - <span style="background-color:#007BFF; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">Front-end</span>, 
+    <span style="background-color:#28A745; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">Back-end</span>, and 
+    <span style="background-color:#DC3545; color:#FFFFFF; padding: 5px 10px; border-radius: 5px;">Full-stack Development</span>
+
 
 - 📚 Studying at a bootcamp to level up my skills!
 - 📚 Education:
