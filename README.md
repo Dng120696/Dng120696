@@ -13,7 +13,7 @@
   - Front-end, Back-end, Full-stack Development
 - 💬 Ask me about **Html,Css,Sass,Tailwind and JavaScript**
 
-- 📫 How to reach me **- Email: dongyang0016@gmail.com - LinkedIn: [linkedin.com/in/christian-patrick-nebab](https://www.linkedin.com/in/christian-patrick-nebab-718110269/) - Twitter: [twitter.com/DnG0216](https://twitter.com/DnG0216) - Facebook: [facebook.com/christianpatrick.nebab](https://www.facebook.com/christianpatrick.nebab/)**
+- 📫 How to reach me - dongyang0016@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
