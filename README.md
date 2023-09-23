@@ -17,7 +17,8 @@
   - Email: dongyang0016@gmail.com
   - LinkedIn: [linkedin.com/in/christian-patrick-nebab](https://www.linkedin.com/in/christian-patrick-nebab-718110269/)
   - Twitter: [twitter.com/DnG0216](https://twitter.com/DnG0216)
-    
+  - Facebook: [facebook.com/christianpatrick.nebab](https://www.facebook.com/christianpatrick.nebab/)
+  - 
 Let's connect and code together! 🚀
 
 <!--
