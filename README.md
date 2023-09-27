@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React, Supabase, Ruby, and Ruby on Rails**
 - 🚀 Working towards mastery in:
   - Front-end, Back-end, Full-stack Development
-- 💬 Ask me about **Html,Css,Sass,Tailwind and JavaScript**
+- 💬 Ask me about **Html,Css,Sass,Tailwind,JavaScript and React**
 
 - 📫 How to reach me - dongyang0016@gmail.com
 
