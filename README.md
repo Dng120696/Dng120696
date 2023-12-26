@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Ruby, and Ruby on Rails**
 
-- 💬 Ask me about **Html,Css,Sass,Tailwind,JavaScript and React**
+- 💬 Ask me about **Html, Css, Sass, Tailwind, JavaScript and React**
 
 - 📫 How to reach me **- dongyang0016@gmail.com**
 
