@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/dng0216" target="blank"><img src="https://img.shields.io/twitter/follow/dng0216?logo=twitter&style=for-the-badge" alt="dng0216" /></a> </p>
 
-- 🌱 I’m currently learning **React, Supabase, Ruby, and Ruby on Rails**
+- 🌱 I’m currently learning **TypeScript, Ruby, and Ruby on Rails**
 
-- 💬 Ask me about **Html,Css,Sass,Tailwind and JavaScript**
+- 💬 Ask me about **Html,Css,Sass,Tailwind,JavaScript and React**
 
 - 📫 How to reach me **- dongyang0016@gmail.com**
 
