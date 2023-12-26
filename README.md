@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html,Css,Sass,Tailwind and JavaScript**
 
-- 📫 How to reach me **- Email: dongyang0016@gmail.com**
+- 📫 How to reach me **- dongyang0016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
