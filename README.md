@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">Aspiring to become a versatile developer based in Cagayan, Philippines.</h3>
-
+<img align="right" alt = "hello World" width = "400" src = "https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dng120696&label=Profile%20views&color=0e75b6&style=flat" alt="dng120696" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dng0216" target="blank"><img src="https://img.shields.io/twitter/follow/dng0216?logo=twitter&style=for-the-badge" alt="dng0216" /></a> </p>
