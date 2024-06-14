@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/dng0216" target="blank"><img src="https://img.shields.io/twitter/follow/dng0216?logo=twitter&style=for-the-badge" alt="dng0216" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, Ruby, and Ruby on Rails**
+- 🌱 I’m currently learning **TypeScript, Next.Js,Express.Js, Node.Js, MongoDB**
 
-- 💬 Ask me about **Html, Css, Sass, Tailwind, JavaScript and React**
+- 💬 Ask me about **Html, Css, Sass, Tailwind, JavaScript, React, ContextAPI,Zustand, Ruby and Ruby on Rails**
 
-- 📫 How to reach me **- dongyang0016@gmail.com**
+- 📫 How to reach me **- christianpatrickcnebab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
